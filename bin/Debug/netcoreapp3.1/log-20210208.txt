@@ -1,0 +1,1 @@
+2021-02-08 16:13:13.177 -03:00 [INF] Usando mais um Serilog

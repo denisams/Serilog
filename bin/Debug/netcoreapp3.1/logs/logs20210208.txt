@@ -1,0 +1,5 @@
+2021-02-08 16:39:41.935 -03:00 [INF] Bem Vindo, Serilog !
+2021-02-08 16:39:42.204 -03:00 [DBG] Dividindo 10 por 0
+2021-02-08 16:39:42.282 -03:00 [ERR] Alguma coisa deu errado...
+System.DivideByZeroException: Attempted to divide by zero.
+   at Serilog.app.Program.Main(String[] args) in C:\Users\denis.silva\source\repos\Serilog\Serilog.app\Program.cs:line 21
