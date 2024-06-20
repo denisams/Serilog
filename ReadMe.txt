@@ -37,6 +37,9 @@ To run the application, you need to have .NET installed on your computer. Follow
    ```sh
    dotnet restore
    ```
+   ﻿Install-Package Serilog.Sinks.Console
+   Install-Package Serilog.Sinks.File 
+
 
 3. **Build the Solution:**
    Build the project to resolve dependencies and compile the code.
@@ -54,6 +57,4 @@ To run the application, you need to have .NET installed on your computer. Follow
    - **Console Output**: Logs will be printed to the console.
    - **File Output**: Logs will be saved in the `logs` directory with daily rolling files.
 
-** You need install
-﻿Install-Package Serilog.Sinks.Console
-Install-Package Serilog.Sinks.File 
+ You need install
